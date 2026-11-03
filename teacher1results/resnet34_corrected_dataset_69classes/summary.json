@@ -1,0 +1,10 @@
+{
+  "architecture": "ResNet34",
+  "task": "plant species-condition classification",
+  "num_classes": 69,
+  "parameters": 21320069,
+  "best_epoch": 26,
+  "best_validation_accuracy": 0.9617184887997325,
+  "reevaluated_validation_accuracy": 0.9617184887997325,
+  "reevaluated_validation_loss": 0.1855847066830668
+}

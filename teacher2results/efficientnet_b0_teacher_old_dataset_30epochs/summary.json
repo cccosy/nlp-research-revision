@@ -1,0 +1,10 @@
+{
+  "architecture": "EfficientNet-B0",
+  "task": "plant species-condition classification",
+  "num_classes": 69,
+  "parameters": 4095937,
+  "best_epoch": 30,
+  "best_validation_accuracy": 0.9655633567368773,
+  "reevaluated_validation_accuracy": 0.9655633567368773,
+  "reevaluated_validation_loss": 0.15666179259194654
+}

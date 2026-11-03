@@ -1,0 +1,37 @@
+{
+  "architecture": "efficientnet_b0",
+  "num_classes": 69,
+  "seed": 42,
+  "batch_size": 128,
+  "epochs": 30,
+  "lr": 0.0001,
+  "optimizer": "Adam",
+  "weight_decay": 0.0,
+  "scheduler": "StepLR",
+  "step_size": 10,
+  "gamma": 0.5,
+  "image_size": 224,
+  "rotation": 25,
+  "color_jitter": [
+    0.2,
+    0.2,
+    0.2,
+    0.0
+  ],
+  "excluded_classes": [
+    "tomato/all"
+  ],
+  "class_aliases": {
+    "lentil/normal": "Lentil/healthy",
+    "lentil/healthy": "Lentil/healthy",
+    "cucumber/fresh cucumber": "Cucumber/Healthy_Fruit",
+    "cucumber/healthy_fruit": "Cucumber/Healthy_Fruit",
+    "cucumber/fresh leaf": "Cucumber/Healthy_Leaf",
+    "cucumber/healthy_leaf": "Cucumber/Healthy_Leaf"
+  },
+  "amp": true,
+  "channels_last": true,
+  "strict_reproducibility": false,
+  "compile": false,
+  "data_signature": "ec19a1cd11382f69e2c7939c7a345cb4bf1742f4fdedff22d4c1e06c5b71733c"
+}

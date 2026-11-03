@@ -1,0 +1,16 @@
+{
+  "architecture": "MobileNetV2",
+  "teacher": "ResNet34",
+  "task": "plant species-condition classification",
+  "num_classes": 69,
+  "student_parameters": 2312261,
+  "teacher_parameters": 21320069,
+  "best_validation_accuracy": 0.9607990638582414,
+  "reevaluated_validation_accuracy": 0.9607990638582414,
+  "reevaluated_validation_loss": 0.1953976702222813,
+  "temperature": 4.0,
+  "alpha": 0.5,
+  "epochs": 30,
+  "batch_size": 128,
+  "lr": 0.0001
+}

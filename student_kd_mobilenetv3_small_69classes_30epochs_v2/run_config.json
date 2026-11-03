@@ -1,0 +1,28 @@
+{
+  "architecture": "mobilenet_v3_small",
+  "teacher_architecture": "resnet34",
+  "teacher_sha256": "dcc0ab519e90b2df33ceed7839923c7840835e46100d4d203ab784f46f9520ac",
+  "data_signature": "ec19a1cd11382f69e2c7939c7a345cb4bf1742f4fdedff22d4c1e06c5b71733c",
+  "num_classes": 69,
+  "epochs": 30,
+  "batch_size": 128,
+  "lr": 0.0005,
+  "optimizer": "AdamW",
+  "weight_decay": 0.0001,
+  "scheduler": "CosineAnnealingLR",
+  "temperature": 4.0,
+  "hard_loss_weight": 0.3,
+  "gradient_clip": 5.0,
+  "image_size": 224,
+  "rotation": 25,
+  "color_jitter": [
+    0.2,
+    0.2,
+    0.2,
+    0.0
+  ],
+  "seed": 42,
+  "amp": true,
+  "channels_last": true,
+  "strict_reproducibility": false
+}

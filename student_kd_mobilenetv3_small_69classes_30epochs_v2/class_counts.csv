@@ -1,0 +1,70 @@
+﻿class_index,species_condition,train,val,test
+0,Apple/Apple___Apple_scab,700,150,150
+1,Apple/Apple___Black_rot,700,150,150
+2,Apple/Apple___Cedar_apple_rust,700,150,150
+3,Apple/Apple___healthy,1151,247,247
+4,Banana/Augmented Banana Black Sigatoka Disease,328,70,71
+5,Banana/Augmented Banana Bract Mosaic Virus Disease,245,52,53
+6,Banana/Augmented Banana Healthy Leaf,421,90,91
+7,Banana/Augmented Banana Insect Pest Disease,421,90,91
+8,Banana/Augmented Banana Moko Disease,269,58,58
+9,Banana/Augmented Banana Panama Disease,200,43,44
+10,Banana/Augmented Banana Yellow Sigatoka Disease,112,24,25
+11,Cashew/anthracnose,1210,259,260
+12,Cashew/gumosis,274,59,59
+13,Cashew/healthy,957,205,206
+14,Cashew/leaf miner,964,207,207
+15,Cashew/red rust,1177,252,253
+16,Cassava/bacterial blight,1828,392,393
+17,Cassava/brown spot,1036,222,223
+18,Cassava/green mite,710,152,153
+19,Cassava/healthy,835,179,179
+20,Cassava/mosaic,843,181,181
+21,Cherry/Cherry___Powdery_mildew,736,158,158
+22,Cherry/Cherry___healthy,700,150,150
+23,Cucumber/Anthracnose,560,120,120
+24,Cucumber/Bacterial Wilt,560,120,120
+25,Cucumber/Belly Rot,560,120,120
+26,Cucumber/Downy Mildew,560,120,120
+27,Cucumber/Gummy Stem Blight,560,120,120
+28,Cucumber/Healthy_Fruit,560,120,120
+29,Cucumber/Healthy_Leaf,560,120,120
+30,Cucumber/Pythium Fruit Rot,560,120,120
+31,Grape/Grape___Black_rot,826,177,177
+32,Grape/Grape___Esca_(Black_Measles),968,207,208
+33,Grape/Grape___Leaf_blight_(Isariopsis_Leaf_Spot),753,161,162
+34,Grape/Grape___healthy,700,150,150
+35,Lentil/Ascochyta blight,77,17,17
+36,Lentil/Lentil Rust,66,14,15
+37,Lentil/Powdery Mildew,75,16,17
+38,Lentil/healthy,100,21,22
+39,Maize/fall armyworm,199,43,43
+40,Maize/grasshoper,471,101,101
+41,Maize/healthy,144,30,30
+42,Maize/leaf beetle,654,140,139
+43,Maize/leaf blight,694,147,149
+44,Maize/leaf spot,868,187,184
+45,Maize/streak virus,673,146,146
+46,Peach/Peach___Bacterial_spot,1606,345,345
+47,Peach/Peach___healthy,700,150,150
+48,"Pepper/Pepper,_bell___Bacterial_spot",700,150,150
+49,"Pepper/Pepper,_bell___healthy",1034,222,222
+50,Potato/Potato___Early_blight,700,150,150
+51,Potato/Potato___Late_blight,700,150,150
+52,Potato/Potato___healthy,700,150,150
+53,Strawberry/Strawberry___Leaf_scorch,776,166,167
+54,Strawberry/Strawberry___healthy,700,150,150
+55,Sugarcane/Early Shoot Borer,154,33,34
+56,Sweet Pumpkin/Augmented Sweet Pumpkin Downy Mildew Disease,980,210,210
+57,Sweet Pumpkin/Augmented Sweet Pumpkin Healthy Leaf,980,210,210
+58,Sweet Pumpkin/Augmented Sweet Pumpkin Leaf Curl Disease,980,210,210
+59,Sweet Pumpkin/Augmented Sweet Pumpkin Mosaic Disease,980,210,210
+60,Sweet Pumpkin/Augmented Sweet Pumpkin Red Beetle,980,210,210
+61,Tomato/healthy,325,70,71
+62,Tomato/leaf blight,901,193,194
+63,Tomato/leaf curl,358,75,78
+64,Tomato/septoria leaf spot,1920,411,412
+65,Tomato/verticulium wilt,540,116,116
+66,cocoa/anthracnose,3494,774,775
+67,cocoa/cssvd,5104,1094,1094
+68,cocoa/healthy,2136,458,458

@@ -1,0 +1,1514 @@
+[
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Cassava/bacterial blight/bacterial blight1609_.jpg",
+    "class_index": 16,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Cassava/bacterial blight/bacterial blight1609_.jpg'",
+    "class_name": "Cassava/bacterial blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/healthy/healthy88_.jpg",
+    "class_index": 41,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/healthy/healthy88_.jpg'",
+    "class_name": "Maize/healthy",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle208_.jpg",
+    "class_index": 42,
+    "error": "OSError: Truncated File Read",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle326_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle326_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle457_.jpg",
+    "class_index": 42,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle572_.jpg",
+    "class_index": 42,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle573_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle573_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle68_.jpg",
+    "class_index": 42,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle691_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle691_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle798_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle798_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle910_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf beetle/leaf beetle910_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight37_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight37_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight452_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight453_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight453_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight522_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight58_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight667_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight667_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight745_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight746_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight746_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight912_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight913_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf blight/leaf blight913_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot187_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot187_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot271_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot272_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot272_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot353_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot353_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot496_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot497_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot497_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot578_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot649_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot64_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot64_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot798_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot799_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot799_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot957_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot958_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/leaf spot/leaf spot958_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus118_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus119_.jpg",
+    "class_index": 45,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus119_.jpg'",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus421_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus485_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus486_.jpg",
+    "class_index": 45,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus486_.jpg'",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus554_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus626_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus701_.jpg",
+    "class_index": 45,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus701_.jpg'",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus773_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus774_.jpg",
+    "class_index": 45,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus774_.jpg'",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus997_.jpg",
+    "class_index": 45,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus998_.jpg",
+    "class_index": 45,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Maize/streak virus/streak virus998_.jpg'",
+    "class_name": "Maize/streak virus",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Peach/Peach___Bacterial_spot/image (2211).JPG",
+    "class_index": 46,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Peach/Peach___Bacterial_spot/image (2211).JPG'",
+    "class_name": "Peach/Peach___Bacterial_spot",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/healthy/healthy442_.jpg",
+    "class_index": 61,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/healthy",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/healthy/healthy443_.jpg",
+    "class_index": 61,
+    "error": "OSError: Truncated File Read",
+    "class_name": "Tomato/healthy",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/healthy/healthy76_.jpg",
+    "class_index": 61,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/healthy",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/healthy/healthy77_.jpg",
+    "class_index": 61,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/healthy/healthy77_.jpg'",
+    "class_name": "Tomato/healthy",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight1232_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight1232_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight386_.jpg",
+    "class_index": 62,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight470_.jpg",
+    "class_index": 62,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight558_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight558_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight645_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight645_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight813_.jpg",
+    "class_index": 62,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight814_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight814_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight8_.jpg",
+    "class_index": 62,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight998_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf blight/leaf blight998_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf curl/leaf curl270_.jpg",
+    "class_index": 63,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf curl",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf curl/leaf curl354_.jpg",
+    "class_index": 63,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf curl/leaf curl354_.jpg'",
+    "class_name": "Tomato/leaf curl",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf curl/leaf curl439_.jpg",
+    "class_index": 63,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf curl",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf curl/leaf curl43_.jpg",
+    "class_index": 63,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/leaf curl/leaf curl43_.jpg'",
+    "class_name": "Tomato/leaf curl",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/Tomato/verticulium wilt/verticulium wilt403_.jpg",
+    "class_index": 65,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/verticulium wilt",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/0659DDC1-8B7B-496F-AA98-4D1681BBD2C7-1_59_42.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/0659DDC1-8B7B-496F-AA98-4D1681BBD2C7-1_59_42.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/0FBE2229-68DD-4220-9D95-3F6A4D57BF31-22_36_22.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/0FBE2229-68DD-4220-9D95-3F6A4D57BF31-22_36_22.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1635717630031.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1635717630031.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1635717783683.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1635717783683.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1635894550781.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1635894550781.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1636116512496.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1636116512496.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1C426498-73B4-41D3-9A9E-C4373BC83040-22_53_30.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/1C426498-73B4-41D3-9A9E-C4373BC83040-22_53_30.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211019_124132-10_32_25.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211019_124132-10_32_25.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_121749-3_57_49.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_121749-3_57_49.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_123349-4_14_35.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_123349-4_14_35.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_125553-16_23_37.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_125553-16_23_37.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_131051-16_30_7.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_131051-16_30_7.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_143425-12_4_30.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_143425-12_4_30.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_144837-4_49_52.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_144837-4_49_52.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_145052-14_54_15.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211020_145052-14_54_15.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_093613-10_39_31.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_093613-10_39_31.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_093632-10_39_55.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_093632-10_39_55.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_104959-12_0_22_jpg.rf.792d0a2c2b42cd400cecb497644989dc.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_104959-12_0_22_jpg.rf.792d0a2c2b42cd400cecb497644989dc.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_105705-12_12_39_jpg.rf.8cdd430a9edcc9a68654ed8751bfb310.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_105705-12_12_39_jpg.rf.8cdd430a9edcc9a68654ed8751bfb310.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_113431-12_20_19_jpg.rf.cee6ffaca8b68fc10b1fec3213d44566.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_113431-12_20_19_jpg.rf.cee6ffaca8b68fc10b1fec3213d44566.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_113924-3_17_5_jpg.rf.6d5832445c3588972b25810d166b412b.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_113924-3_17_5_jpg.rf.6d5832445c3588972b25810d166b412b.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_114817-3_26_47_jpg.rf.bba8685e6eedeb24d37f43d1d1c3d408.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_114817-3_26_47_jpg.rf.bba8685e6eedeb24d37f43d1d1c3d408.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_121226-0_22_44_jpg.rf.fe0689a1eb134be547cf774c870e49bb.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_121226-0_22_44_jpg.rf.fe0689a1eb134be547cf774c870e49bb.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_121723-14_18_11_jpg.rf.1ba7a5ce2e8fabaee9ca756c35167c50.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_121723-14_18_11_jpg.rf.1ba7a5ce2e8fabaee9ca756c35167c50.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_121917-14_18_32_jpg.rf.df45558b3ac7f516609ec8eded64be68.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_121917-14_18_32_jpg.rf.df45558b3ac7f516609ec8eded64be68.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_122207-14_28_58_jpg.rf.a388f55da29b500a22dab9abd5154f53.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_122207-14_28_58_jpg.rf.a388f55da29b500a22dab9abd5154f53.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_123857-15_57_28_jpg.rf.9da9e840b04b90f015c59c77ff727fef.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_123857-15_57_28_jpg.rf.9da9e840b04b90f015c59c77ff727fef.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_124619-16_33_0_jpg.rf.eec244bd41fac18fdcb8e84d6b93140b.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_124619-16_33_0_jpg.rf.eec244bd41fac18fdcb8e84d6b93140b.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_124738-17_14_45_jpg.rf.9b13b17b5a173d235a8ca1cfb3462309.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_124738-17_14_45_jpg.rf.9b13b17b5a173d235a8ca1cfb3462309.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_125524-16_37_48_jpg.rf.8ee0d8c2d0bf55b54b544cb7a6f98d78.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_125524-16_37_48_jpg.rf.8ee0d8c2d0bf55b54b544cb7a6f98d78.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_131205-16_57_6_jpg.rf.d04599f44171665ae5301fb53181ae35.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_131205-16_57_6_jpg.rf.d04599f44171665ae5301fb53181ae35.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_132140-17_16_19_jpg.rf.2a8f382bfd70094c7b8ba7463c9c6f60.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_132140-17_16_19_jpg.rf.2a8f382bfd70094c7b8ba7463c9c6f60.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_132623-17_28_53_jpg.rf.999b5b2a48ee8e29f112606e84bc7fab.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_132623-17_28_53_jpg.rf.999b5b2a48ee8e29f112606e84bc7fab.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_134123-17_49_14_jpg.rf.9bb1889e9eeb2eab4f30bcedf6c97e33.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_134123-17_49_14_jpg.rf.9bb1889e9eeb2eab4f30bcedf6c97e33.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_134507-17_55_22_jpg.rf.f232f8fb934200478d17b273ee17cf86.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_134507-17_55_22_jpg.rf.f232f8fb934200478d17b273ee17cf86.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_135752-18_15_1_jpg.rf.70472aa2cb90fbe8ba2064e5c23ae259.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_135752-18_15_1_jpg.rf.70472aa2cb90fbe8ba2064e5c23ae259.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_135813-18_15_24_jpg.rf.61e1c5ddedd1bc06b3fdd383f218387a.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211021_135813-18_15_24_jpg.rf.61e1c5ddedd1bc06b3fdd383f218387a.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_130415-4_56_34_jpg.rf.ada8ca15bedf345bb487069af1e1c85f.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_130415-4_56_34_jpg.rf.ada8ca15bedf345bb487069af1e1c85f.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_131945-5_10_54_jpg.rf.999642400d5ba29ba2cd963d17e34df6.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_131945-5_10_54_jpg.rf.999642400d5ba29ba2cd963d17e34df6.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_141501-5_36_59_jpg.rf.4f5b3377f86f54b72bc5026d19327e93.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_141501-5_36_59_jpg.rf.4f5b3377f86f54b72bc5026d19327e93.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_143709-5_49_2_jpg.rf.77d5ff27392eaa7fb308a65ea36cff8d.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_143709-5_49_2_jpg.rf.77d5ff27392eaa7fb308a65ea36cff8d.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_150341-17_7_54_jpg.rf.e1f4e6de0a15c4527c05f3e24e1d999c.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211027_150341-17_7_54_jpg.rf.e1f4e6de0a15c4527c05f3e24e1d999c.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_084847-4_22_15_jpg.rf.01c2708019c002cdcbf2c9e1a5b89ec5.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_084847-4_22_15_jpg.rf.01c2708019c002cdcbf2c9e1a5b89ec5.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_085134-4_22_32_jpg.rf.a269580a188426508ec234e8aacec68d.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_085134-4_22_32_jpg.rf.a269580a188426508ec234e8aacec68d.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_091232-4_36_29_jpg.rf.a96e3ed06ea99e1cded245e3e4d30140.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_091232-4_36_29_jpg.rf.a96e3ed06ea99e1cded245e3e4d30140.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_091600-4_37_10_jpg.rf.088844f14881f75f9ff1c05241d8fb38.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_091600-4_37_10_jpg.rf.088844f14881f75f9ff1c05241d8fb38.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_100435-12_53_34.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_100435-12_53_34.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_100808-12_57_50.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_100808-12_57_50.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_105234-13_26_14.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/20211028_105234-13_26_14.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/2255245E-8E08-4709-8D50-BFC9F3FF492C-22_23_24.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/2255245E-8E08-4709-8D50-BFC9F3FF492C-22_23_24.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/22934368-1A5C-42A1-A9FF-3D1124BEE3DB-22_22_37.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/22934368-1A5C-42A1-A9FF-3D1124BEE3DB-22_22_37.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/257BEE64-9D29-4FC3-AB0B-64D27C2CA9CC-23_27_3.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/257BEE64-9D29-4FC3-AB0B-64D27C2CA9CC-23_27_3.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/25DE3DA7-F921-42B0-AAAB-6DC50B6D3078-0_31_5.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/25DE3DA7-F921-42B0-AAAB-6DC50B6D3078-0_31_5.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3292A45B-8200-401A-9A4C-19B40EC8DBE7-23_10_36.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3292A45B-8200-401A-9A4C-19B40EC8DBE7-23_10_36.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/389C93A9-EF7F-4319-8F7D-19091E47D408-19_49_41.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/389C93A9-EF7F-4319-8F7D-19091E47D408-19_49_41.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3CB9D1FA-E5BF-4BA0-A660-16648F6D5417-1_57_34.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3CB9D1FA-E5BF-4BA0-A660-16648F6D5417-1_57_34.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3D0D57B7-0F63-4BFB-BD19-2C0AE05B8DB9-23_4_40.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3D0D57B7-0F63-4BFB-BD19-2C0AE05B8DB9-23_4_40.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3F77CACC-EC1C-40E8-BBD4-653FC713D124-0_39_20.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/3F77CACC-EC1C-40E8-BBD4-653FC713D124-0_39_20.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/400341900931_20076-13_33_38.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/400341900931_20076-13_33_38.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/400348000506_68993-11_31_46.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/400348000506_68993-11_31_46.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/46BFDEA3-7117-4EFA-8AH14-DC70C2761B05-22_55_39.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/46BFDEA3-7117-4EFA-8AH14-DC70C2761B05-22_55_39.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/477A6B86-131F-4D15-B841-F5C058D7796D-23_52_49.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/477A6B86-131F-4D15-B841-F5C058D7796D-23_52_49.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/4E44B7EF-B6C8-4271-B83A-0B97693A3983-22_31_26.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/4E44B7EF-B6C8-4271-B83A-0B97693A3983-22_31_26.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/519BEA78-49C5-4A0F-B4CB-8931D4857AA6-1_16_31.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/519BEA78-49C5-4A0F-B4CB-8931D4857AA6-1_16_31.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/51D4CA74-8499-452F-B2E3-D198F071D361-1_15_6.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/51D4CA74-8499-452F-B2E3-D198F071D361-1_15_6.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/57C0C778-C98F-4D9E-B1F4-D618E91116AD-23_51_0.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/57C0C778-C98F-4D9E-B1F4-D618E91116AD-23_51_0.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/66D2FBC7-7327-4D9C-9CE7-C760214B426E-12_35_39.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/66D2FBC7-7327-4D9C-9CE7-C760214B426E-12_35_39.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/683581E1-0647-490C-8C25-B9C149566C94-0_56_21.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/683581E1-0647-490C-8C25-B9C149566C94-0_56_21.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/6A8916CF-EAAA-4635-B5BE-6E0930502664-0_8_54.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/6A8916CF-EAAA-4635-B5BE-6E0930502664-0_8_54.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/6AF56621-AE13-4DDE-BDED-D26F0C94EE84-12_4_36.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/6AF56621-AE13-4DDE-BDED-D26F0C94EE84-12_4_36.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/754E9B00-59C7-4C83-BFBC-1707C7F5A84A-23_16_47.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/754E9B00-59C7-4C83-BFBC-1707C7F5A84A-23_16_47.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/7B50141E-B214-4EBF-AA44-18699E89C24D-23_49_40.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/7B50141E-B214-4EBF-AA44-18699E89C24D-23_49_40.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/8775F560-B27C-4C90-850E-1160FD924D5F-0_29_3 (1).jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/8775F560-B27C-4C90-850E-1160FD924D5F-0_29_3 (1).jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/926338C3-9684-41DC-9EC6-2F7AFB55A505-23_49_30.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/926338C3-9684-41DC-9EC6-2F7AFB55A505-23_49_30.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/95542786-5975-4853-81C5-3C170E380072-19_32_53.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/95542786-5975-4853-81C5-3C170E380072-19_32_53.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/95F63599-6CF2-4685-A337-E60A27CBE769-23_17_53.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/95F63599-6CF2-4685-A337-E60A27CBE769-23_17_53.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/9BBB0FCC-5423-4E73-92EC-4DC6806B8E43-23_46_48.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/9BBB0FCC-5423-4E73-92EC-4DC6806B8E43-23_46_48.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/9FCEDDC0-1190-480E-AE6E-C9BF1850CFFA-19_12_8.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/9FCEDDC0-1190-480E-AE6E-C9BF1850CFFA-19_12_8.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/B5B35558-6A8A-46D8-82E2-778F0698854C-23_30_40.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/B5B35558-6A8A-46D8-82E2-778F0698854C-23_30_40.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/B7FBFBA8-05F2-4390-84C0-6AAD08633207-23_45_29.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/B7FBFBA8-05F2-4390-84C0-6AAD08633207-23_45_29.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/C905B87C-49E4-4FFD-AB36-56D0C47CA47E-23_34_19.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/C905B87C-49E4-4FFD-AB36-56D0C47CA47E-23_34_19.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D3A1C573-F1C9-4251-9BE3-E001A6D42460-22_55_32 (1).jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D3A1C573-F1C9-4251-9BE3-E001A6D42460-22_55_32 (1).jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D5ED7A63-5764-4626-B09F-44BC0282B019-23_35_49.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D5ED7A63-5764-4626-B09F-44BC0282B019-23_35_49.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D82772B4-E24F-4DE8-A796-09CDB489E6D6-0_26_40.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D82772B4-E24F-4DE8-A796-09CDB489E6D6-0_26_40.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D90B84E1-9D80-4CFD-8F50-BD3E84940D0D-22_5_1.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/D90B84E1-9D80-4CFD-8F50-BD3E84940D0D-22_5_1.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/DF53410D-7FE2-4B6B-9181-6819A0B15168-0_43_40.jpeg",
+    "class_index": 66,
+    "error": "OSError: image file is truncated (0 bytes not processed)",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/DF790181-FC1A-40A7-BFBD-2D7DA3C53C6D-23_54_10.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/DF790181-FC1A-40A7-BFBD-2D7DA3C53C6D-23_54_10.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/DFC01603-8A33-406B-A07D-483161DF29F8-19_36_46.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/DFC01603-8A33-406B-A07D-483161DF29F8-19_36_46.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/E1D631E4-5852-4F2F-A847-D211288116FB-22_21_35.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/E1D631E4-5852-4F2F-A847-D211288116FB-22_21_35.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/EE7EB74D-5B18-4F9E-857F-BBDC6B22ABD2-23_32_55.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/EE7EB74D-5B18-4F9E-857F-BBDC6B22ABD2-23_32_55.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/EFA9B629-AE8C-4DB2-B51B-CEA765750F9A-22_9_19.jpeg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/EFA9B629-AE8C-4DB2-B51B-CEA765750F9A-22_9_19.jpeg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG-20211020-WA0153-19_44_44.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG-20211020-WA0153-19_44_44.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_1605-19_23_18.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_1605-19_23_18.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211018_103320_7-15_2_17.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211018_103320_7-15_2_17.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211024_142728-15_32_18.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211024_142728-15_32_18.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_095727-16_46_33.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_095727-16_46_33.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_110354-16_36_23.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_110354-16_36_23.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_112107-17_1_5.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_112107-17_1_5.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_131735-16_58_32.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_20211108_131735-16_58_32.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_8263-19_28_57.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_8263-19_28_57.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9616-14_46_50.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9616-14_46_50.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9625-14_47_0.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9625-14_47_0.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9669-15_43_57.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9669-15_43_57.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9716-16_10_14.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9716-16_10_14.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9756-14_33_3.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9756-14_33_3.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9965-15_21_17.JPG",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/IMG_9965-15_21_17.JPG'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_486@13-12-2021_17-40-55-13_52_23.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_486@13-12-2021_17-40-55-13_52_23.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_496@13-12-2021_17-42-10-13_54_2.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_496@13-12-2021_17-42-10-13_54_2.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_505@13-12-2021_17-42-11-13_56_12.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_505@13-12-2021_17-42-11-13_56_12.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_533@13-12-2021_17-42-12-14_1_14.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_533@13-12-2021_17-42-12-14_1_14.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_550@13-12-2021_17-42-12-14_5_1.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_550@13-12-2021_17-42-12-14_5_1.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_56@13-12-2021_17-18-34-13_38_0.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_56@13-12-2021_17-18-34-13_38_0.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_639@13-12-2021_17-47-19-12_58_51.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_639@13-12-2021_17-47-19-12_58_51.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_645@13-12-2021_17-47-19-12_59_16.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_645@13-12-2021_17-47-19-12_59_16.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_660@13-12-2021_17-47-20-13_2_22.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_660@13-12-2021_17-47-20-13_2_22.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_67@13-12-2021_17-18-35-13_40_22.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_67@13-12-2021_17-18-35-13_40_22.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_727@13-12-2021_17-50-08-13_14_1.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_727@13-12-2021_17-50-08-13_14_1.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_739@13-12-2021_17-50-50-13_15_38.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_739@13-12-2021_17-50-50-13_15_38.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_753@13-12-2021_17-50-51-13_18_4.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_753@13-12-2021_17-50-51-13_18_4.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_783@13-12-2021_17-50-52-13_24_19.jpg",
+    "class_index": 66,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/train/cocoa/anthracnose/photo_783@13-12-2021_17-50-52-13_24_19.jpg'",
+    "class_name": "cocoa/anthracnose",
+    "split": "train"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/healthy/healthy18_.jpg",
+    "class_index": 41,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/healthy/healthy18_.jpg'",
+    "class_name": "Maize/healthy",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf beetle/leaf beetle206_.jpg",
+    "class_index": 42,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf beetle",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf beetle/leaf beetle207_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf beetle/leaf beetle207_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight590_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight590_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight666_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight830_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight830_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight98_.jpg",
+    "class_index": 43,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf blight/leaf blight98_.jpg'",
+    "class_name": "Maize/leaf blight",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf spot/leaf spot425_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf spot/leaf spot425_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/leaf spot/leaf spot881_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/streak virus/streak virus422_.jpg",
+    "class_index": 45,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Maize/streak virus/streak virus422_.jpg'",
+    "class_name": "Maize/streak virus",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf blight/leaf blight471_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf blight/leaf blight471_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf blight/leaf blight72_.jpg",
+    "class_index": 62,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf blight/leaf blight72_.jpg'",
+    "class_name": "Tomato/leaf blight",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf curl/leaf curl186_.jpg",
+    "class_index": 63,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf curl/leaf curl186_.jpg'",
+    "class_name": "Tomato/leaf curl",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf curl/leaf curl271_.jpg",
+    "class_index": 63,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf curl/leaf curl271_.jpg'",
+    "class_name": "Tomato/leaf curl",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/val/Tomato/leaf curl/leaf curl353_.jpg",
+    "class_index": 63,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf curl",
+    "split": "val"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/healthy/healthy189_.jpg",
+    "class_index": 41,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/healthy",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/healthy/healthy87_.jpg",
+    "class_index": 41,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/healthy",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle458_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle458_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle690_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle690_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle797_.jpg",
+    "class_index": 42,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf beetle",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle90_.jpg",
+    "class_index": 42,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf beetle/leaf beetle90_.jpg'",
+    "class_name": "Maize/leaf beetle",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf blight/leaf blight379_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf blight/leaf blight82_.jpg",
+    "class_index": 43,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf blight",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot186_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot424_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot723_.jpg",
+    "class_index": 44,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Maize/leaf spot",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot724_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot724_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot882_.jpg",
+    "class_index": 44,
+    "error": "UnidentifiedImageError: cannot identify image file '/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/leaf spot/leaf spot882_.jpg'",
+    "class_name": "Maize/leaf spot",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Maize/streak virus/streak virus627_.jpg",
+    "class_index": 45,
+    "error": "OSError: Truncated File Read",
+    "class_name": "Maize/streak virus",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Tomato/leaf blight/leaf blight644_.jpg",
+    "class_index": 62,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf blight",
+    "split": "test"
+  },
+  {
+    "path": "/kaggle/input/datasets/qinuozhu/plants/plants/test/Tomato/leaf blight/leaf blight997_.jpg",
+    "class_index": 62,
+    "error": "OSError: broken data stream when reading image file",
+    "class_name": "Tomato/leaf blight",
+    "split": "test"
+  }
+]

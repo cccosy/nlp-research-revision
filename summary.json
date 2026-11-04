@@ -1,0 +1,16 @@
+{
+  "student": "MobileNetV2",
+  "teacher": "EfficientNet-B0",
+  "student_parameters": 2312261,
+  "teacher_parameters": 4095937,
+  "num_classes": 69,
+  "best_epoch": 21,
+  "best_validation_accuracy": 0.9639752591106653,
+  "reevaluated_validation_accuracy": 0.9639752591106653,
+  "reevaluated_validation_loss": 0.17538196232078945,
+  "epochs_completed": 30,
+  "image_size": 224,
+  "temperature": 4.0,
+  "alpha": 0.5,
+  "label_smoothing": 0.1
+}
